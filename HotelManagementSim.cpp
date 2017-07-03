@@ -16,7 +16,7 @@
 #include <stdlib.h>
 #include <string.h>//for performing string functions
 #include <time.h>//for the algorithm in picking room numbers randomly
-#include <conio.h>
+#include <conio.h>//available in Windows platform only
 #include <ctype.h>//for checking if input is a digit
 #define _CRT_SECURE_NO_WARNINGS
 
