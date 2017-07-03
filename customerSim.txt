@@ -1,0 +1,10 @@
+Lee Siu Ming#2#2#Day 2#102#0.00#0.00
+Chan Siu Keung#3#3#Day 3#103#0.00#0.00
+Chan Ah E#HK#1234567#Day 7#110#0.00#0.00
+Lee S#HK#Y312345(A)#Day 16#112#0.00#0.00
+Gas Pee P#HK#0987654321#Day 10#108#100.00#0.00
+Cheung Amy#123 Polyu Rd, HK.#135790(A)#Day 19#122#0.00#0.00
+Chen Li#789 King's Rd, HK.#13456798D#Day 14#104#0.00#0.00
+Siu Ling#456 Poly Estate, HK.#Y436749(4)#Day 21#106#0.00#0.00
+TEST#TEST#TEST#Day 1#111#0.00#0.00
+TETT#h#h#Day 6#124#0.00#0.00
